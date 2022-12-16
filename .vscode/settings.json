@@ -1,0 +1,17 @@
+{
+    "terminal.explorerKind": "integrated",
+    "emmet.excludeLanguages": [
+        "markdown",
+        "\"emmet.triggerExpansionOnTab\": true"
+    ],
+    "terminal.integrated.defaultProfile.windows": null,
+    "cSpell.words": [
+        "Connecté",
+        "Connexion",
+        "Créer",
+        "d'utilisateur",
+        "espace",
+        "obligatoire",
+        "votre"
+    ]
+}
